@@ -1,0 +1,140 @@
+[
+    {
+        "name": "swimsuit",
+        "url": "https://github.com/abuiko/react-bootstrap-assets/blob/master/bikini.jpeg?raw=true",
+        "id": "1",
+        "isFavorite": false
+    },
+    {
+        "name": "swimsuit",
+        "url": "https://github.com/abuiko/react-bootstrap-assets/blob/master/bodysuit.jpeg?raw=true",
+        "id": "2",
+        "isFavorite": false
+    },
+    {
+        "name": "top",
+        "url": "https://github.com/abuiko/react-bootstrap-assets/blob/master/top2.jpeg?raw=true",
+        "id": "3",
+        "isFavorite": false
+    },
+    {
+        "name": "top",
+        "url": "https://github.com/abuiko/react-bootstrap-assets/blob/master/top3.jpeg?raw=true",
+        "id": "4",
+        "isFavorite": false
+    },
+    {
+        "name": "top",
+        "url": "https://github.com/abuiko/react-bootstrap-assets/blob/master/top5.jpeg?raw=true",
+        "id": "5",
+        "isFavorite": false
+    },
+    {
+        "name": "top",
+        "url": "https://github.com/abuiko/react-bootstrap-assets/blob/master/tops.jpeg?raw=true",
+        "id": "6",
+        "isFavorite": false
+    },
+    {
+        "name": "top",
+        "url": "https://github.com/abuiko/react-bootstrap-assets/blob/master/blouse.jpeg?raw=true",
+        "id": "7",
+        "isFavorite": false
+    },
+    {
+        "name": "top",
+        "url": "https://github.com/abuiko/react-bootstrap-assets/blob/master/vest.jpeg?raw=true",
+        "id": "8",
+        "isFavorite": false
+    },
+    {
+        "name": "top",
+        "url": "https://github.com/abuiko/react-bootstrap-assets/blob/master/sweatshirt.jpeg?raw=true",
+        "id": "9",
+        "isFavorite": false
+    },
+    {
+        "name": "top",
+        "url": "https://github.com/abuiko/react-bootstrap-assets/blob/master/sweatshirt2.jpeg?raw=true",
+        "id": "10",
+        "isFavorite": false
+    },
+    {
+        "name": "top",
+        "url": "https://github.com/abuiko/react-bootstrap-assets/blob/master/sweatshirt3.jpeg?raw=true",
+        "id": "11",
+        "isFavorite": false
+    },
+    {
+        "name": "top",
+        "url": "https://github.com/abuiko/react-bootstrap-assets/blob/master/hoodie.jpeg?raw=true",
+        "id": "12",
+        "isFavorite": false
+    },
+    {
+        "name": "dress",
+        "url": "https://github.com/abuiko/react-bootstrap-assets/blob/master/dress-main.jpeg?raw=true",
+        "id": "13",
+        "isFavorite": false
+    },
+    {
+        "name": "dress",
+        "url": "https://github.com/abuiko/react-bootstrap-assets/blob/master/dress.jpeg?raw=true",
+        "id": "14",
+        "isFavorite": false
+    },
+    {
+        "name": "dress",
+        "url": "https://github.com/abuiko/react-bootstrap-assets/blob/master/dress2.jpeg?raw=true",
+        "id": "15",
+        "isFavorite": false
+    },
+    {
+        "name": "dress",
+        "url": "https://github.com/abuiko/react-bootstrap-assets/blob/master/dress3.jpeg?raw=true",
+        "id": "16",
+        "isFavorite": false
+    },
+    {
+        "name": "top",
+        "url": "https://github.com/abuiko/react-bootstrap-assets/blob/master/jacket.jpeg?raw=true",
+        "id": "17",
+        "isFavorite": false
+    },
+    {
+        "name": "top",
+        "url": "https://github.com/abuiko/react-bootstrap-assets/blob/master/jacket2.jpeg?raw=true",
+        "id": "18",
+        "isFavorite": false
+    },
+    {
+        "name": "bottom",
+        "url": "https://github.com/abuiko/react-bootstrap-assets/blob/master/jeans.jpeg?raw=true",
+        "id": "19",
+        "isFavorite": false
+    },
+    {
+        "name": "bottom",
+        "url": "https://github.com/abuiko/react-bootstrap-assets/blob/master/pants.jpeg?raw=true",
+        "id": "20",
+        "isFavorite": false
+    },
+    {
+        "name": "bottom",
+        "url": "https://github.com/abuiko/react-bootstrap-assets/blob/master/pants2.jpeg?raw=true",
+        "id": "21",
+        "isFavorite": false
+    },
+    {
+        "name": "bottom",
+        "url": "https://github.com/abuiko/react-bootstrap-assets/blob/master/shorts.jpeg?raw=true",
+        "id": "22",
+        "isFavorite": false
+    },
+    {
+        "name": "bottom",
+        "url": "https://github.com/abuiko/react-bootstrap-assets/blob/master/skirt.jpeg?raw=true",
+        "id": "23",
+        "isFavorite": false
+    }
+]
