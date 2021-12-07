@@ -3,7 +3,7 @@
         "name": "swimsuit",
         "url": "https://github.com/abuiko/react-bootstrap-assets/blob/master/bikini.jpeg?raw=true",
         "id": "1",
-        "price": "$17.99"
+        "price": "$17.99",
         "isFavorite": false
     },
     {
