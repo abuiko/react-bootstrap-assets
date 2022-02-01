@@ -5,7 +5,8 @@
         "id": "1",
         "price": 17.99,
         "isFavorite": false,
-        "inCart": false
+        "inCart": false,
+        "color": "0483D0"
     },
     {
         "name": "swimsuit",
@@ -13,7 +14,8 @@
         "id": "2",
         "price": 17.99,
         "isFavorite": false,
-        "inCart": false
+        "inCart": false,
+        "color": "EAB527"
     },
     {
         "name": "top",
@@ -21,7 +23,8 @@
         "id": "3",
         "price": 7.99,
         "isFavorite": false,
-        "inCart": false
+        "inCart": false,
+        "color": "E2E3E8"
     },
     {
         "name": "top",
@@ -29,7 +32,8 @@
         "id": "4",
         "price": 17.99,
         "isFavorite": false,
-        "inCart": false
+        "inCart": false,
+        "color": "422E27"
     },
     {
         "name": "top",
@@ -37,7 +41,8 @@
         "id": "5",
         "price": 17.99,
         "isFavorite": false,
-        "inCart": false
+        "inCart": false,
+        "color": "EAB527"
     },
     {
         "name": "top",
@@ -45,7 +50,8 @@
         "id": "6",
         "price": 17.99,
         "isFavorite": false,
-        "inCart": false
+        "inCart": false,
+        "color": "979FAA"
     },
     {
         "name": "top",
@@ -53,7 +59,8 @@
         "id": "7",
         "price": 17.99,
         "isFavorite": false,
-        "inCart": false
+        "inCart": false,
+        "color": "E2E3E8"
     },
     {
         "name": "top",
@@ -61,7 +68,8 @@
         "id": "8",
         "price": 17.99,
         "isFavorite": false,
-        "inCart": false
+        "inCart": false,
+        "color": "E2E3E8"
     },
     {
         "name": "top",
@@ -69,7 +77,8 @@
         "id": "9",
         "price": 17.99,
         "isFavorite": false,
-        "inCart": false
+        "inCart": false,
+        "color": "024C4D"
     },
     {
         "name": "top",
@@ -77,7 +86,8 @@
         "id": "10",
         "price": 17.99,
         "isFavorite": false,
-        "inCart": false
+        "inCart": false,
+        "color": "979FAA"
     },
     {
         "name": "top",
@@ -85,7 +95,8 @@
         "id": "11",
         "price": 17.99,
         "isFavorite": false,
-        "inCart": false
+        "inCart": false,
+        "color": "E6E3D4"
     },
     {
         "name": "top",
@@ -93,7 +104,8 @@
         "id": "12",
         "price": 17.99,
         "isFavorite": false,
-        "inCart": false
+        "inCart": false,
+        "color": "E2C1B8"
     },
     {
         "name": "dress",
@@ -101,7 +113,8 @@
         "id": "13",
         "price": 17.99,
         "isFavorite": false,
-        "inCart": false
+        "inCart": false,
+        "color": "E6E3D4"
     },
     {
         "name": "dress",
@@ -109,7 +122,8 @@
         "id": "14",
         "price": 17.99,
         "isFavorite": false,
-        "inCart": false
+        "inCart": false,
+        "color": "E2E3E8"
     },
     {
         "name": "dress",
@@ -117,7 +131,8 @@
         "id": "15",
         "price": 17.99,
         "isFavorite": false,
-        "inCart": false
+        "inCart": false,
+        "color": "422E27"
     },
     {
         "name": "dress",
@@ -125,7 +140,8 @@
         "id": "16",
         "price": 17.99,
         "isFavorite": false,
-        "inCart": false
+        "inCart": false,
+        "color": "E2E3E8"
     },
     {
         "name": "top",
@@ -133,7 +149,8 @@
         "id": "17",
         "price": 17.99,
         "isFavorite": false,
-        "inCart": false
+        "inCart": false,
+        "color": "425C7D"
     },
     {
         "name": "top",
@@ -141,7 +158,8 @@
         "id": "18",
         "price": 17.99,
         "isFavorite": false,
-        "inCart": false
+        "inCart": false,
+        "color": "E2C1B8"
     },
     {
         "name": "bottom",
@@ -149,7 +167,8 @@
         "id": "19",
         "price": 17.99,
         "isFavorite": false,
-        "inCart": false
+        "inCart": false,
+        "color": "425C7D"
     },
     {
         "name": "bottom",
@@ -157,7 +176,8 @@
         "id": "20",
         "price": 17.99,
         "isFavorite": false,
-        "inCart": false
+        "inCart": false,
+        "color": "422E27"
     },
     {
         "name": "bottom",
@@ -165,7 +185,8 @@
         "id": "21",
         "price": 17.99,
         "isFavorite": false,
-        "inCart": false
+        "inCart": false,
+        "color": "E2C1B8"
     },
     {
         "name": "bottom",
@@ -173,7 +194,8 @@
         "id": "22",
         "price": 17.99,
         "isFavorite": false,
-        "inCart": false
+        "inCart": false,
+        "color": "425C7D"
     },
     {
         "name": "bottom",
@@ -181,6 +203,7 @@
         "id": "23",
         "price": 17.99,
         "isFavorite": false,
-        "inCart": false
+        "inCart": false,
+        "color": "E6E3D4"
     }
 ]
