@@ -9,198 +9,220 @@
         "color": "#0483D0"
     },
     {
+        "id": 2,
         "name": "swimsuit",
         "url": "https://github.com/abuiko/react-bootstrap-assets/blob/master/bodysuit.jpeg?raw=true",
-        "id": 2,
+       
         "price": 17.99,
         "isFavorite": false,
         "inCart": false,
         "color": "#EAB527"
     },
     {
+        "id": 3,
         "name": "top",
         "url": "https://github.com/abuiko/react-bootstrap-assets/blob/master/top2.jpeg?raw=true",
-        "id": 3,
+        
         "price": 7.99,
         "isFavorite": false,
         "inCart": false,
         "color": "#E2E3E8"
     },
     {
+        "id": 4,
         "name": "top",
         "url": "https://github.com/abuiko/react-bootstrap-assets/blob/master/top3.jpeg?raw=true",
-        "id": 4,
+        
         "price": 17.99,
         "isFavorite": false,
         "inCart": false,
         "color": "#422E27"
     },
     {
+        "id": 5,
         "name": "top",
         "url": "https://github.com/abuiko/react-bootstrap-assets/blob/master/top5.jpeg?raw=true",
-        "id": 5,
+       
         "price": 17.99,
         "isFavorite": false,
         "inCart": false,
         "color": "#EAB527"
     },
     {
+        "id": 6,
         "name": "top",
         "url": "https://github.com/abuiko/react-bootstrap-assets/blob/master/tops.jpeg?raw=true",
-        "id": 6,
+       
         "price": 17.99,
         "isFavorite": false,
         "inCart": false,
         "color": "#979FAA"
     },
     {
+        "id": 7,
         "name": "top",
         "url": "https://github.com/abuiko/react-bootstrap-assets/blob/master/blouse.jpeg?raw=true",
-        "id": 7,
+       
         "price": 17.99,
         "isFavorite": false,
         "inCart": false,
         "color": "#E2E3E8"
     },
     {
+        "id": 8,
         "name": "top",
         "url": "https://github.com/abuiko/react-bootstrap-assets/blob/master/vest.jpeg?raw=true",
-        "id": 8,
+       
         "price": 17.99,
         "isFavorite": false,
         "inCart": false,
         "color": "#E2E3E8"
     },
     {
+        "id": 9,
         "name": "top",
         "url": "https://github.com/abuiko/react-bootstrap-assets/blob/master/sweatshirt.jpeg?raw=true",
-        "id": 9,
+        
         "price": 17.99,
         "isFavorite": false,
         "inCart": false,
         "color": "#024C4D"
     },
     {
+        "id": 10,
         "name": "top",
         "url": "https://github.com/abuiko/react-bootstrap-assets/blob/master/sweatshirt2.jpeg?raw=true",
-        "id": 10,
+       
         "price": 17.99,
         "isFavorite": false,
         "inCart": false,
         "color": "#979FAA"
     },
     {
+        "id": 11,
         "name": "top",
         "url": "https://github.com/abuiko/react-bootstrap-assets/blob/master/sweatshirt3.jpeg?raw=true",
-        "id": 11,
+        
         "price": 17.99,
         "isFavorite": false,
         "inCart": false,
         "color": "#E6E3D4"
     },
     {
+        "id": 12,
         "name": "top",
         "url": "https://github.com/abuiko/react-bootstrap-assets/blob/master/hoodie.jpeg?raw=true",
-        "id": 12,
+       
         "price": 17.99,
         "isFavorite": false,
         "inCart": false,
         "color": "#E2C1B8"
     },
     {
+        "id": 13,
         "name": "dress",
         "url": "https://github.com/abuiko/react-bootstrap-assets/blob/master/dress-main.jpeg?raw=true",
-        "id": 13,
+       
         "price": 17.99,
         "isFavorite": false,
         "inCart": false,
         "color": "#E6E3D4"
     },
     {
+        "id": 14,
         "name": "dress",
         "url": "https://github.com/abuiko/react-bootstrap-assets/blob/master/dress.jpeg?raw=true",
-        "id": 14,
+        
         "price": 17.99,
         "isFavorite": false,
         "inCart": false,
         "color": "#E2E3E8"
     },
     {
+        "id": 15,
         "name": "dress",
         "url": "https://github.com/abuiko/react-bootstrap-assets/blob/master/dress2.jpeg?raw=true",
-        "id": 15,
+       
         "price": 17.99,
         "isFavorite": false,
         "inCart": false,
         "color": "#422E27"
     },
     {
+        "id": 16,
         "name": "dress",
         "url": "https://github.com/abuiko/react-bootstrap-assets/blob/master/dress3.jpeg?raw=true",
-        "id": 16,
+       
         "price": 17.99,
         "isFavorite": false,
         "inCart": false,
         "color": "#E2E3E8"
     },
     {
+        "id": 17,
         "name": "top",
         "url": "https://github.com/abuiko/react-bootstrap-assets/blob/master/jacket.jpeg?raw=true",
-        "id": 17,
+       
         "price": 17.99,
         "isFavorite": false,
         "inCart": false,
         "color": "#425C7D"
     },
     {
+        "id": 18,
         "name": "top",
         "url": "https://github.com/abuiko/react-bootstrap-assets/blob/master/jacket2.jpeg?raw=true",
-        "id": 18,
+        
         "price": 17.99,
         "isFavorite": false,
         "inCart": false,
         "color": "#E2C1B8"
     },
     {
+        "id": 19,
         "name": "bottom",
         "url": "https://github.com/abuiko/react-bootstrap-assets/blob/master/jeans.jpeg?raw=true",
-        "id": 19,
+        
         "price": 17.99,
         "isFavorite": false,
         "inCart": false,
         "color": "#425C7D"
     },
     {
+        "id": 20,
         "name": "bottom",
         "url": "https://github.com/abuiko/react-bootstrap-assets/blob/master/pants.jpeg?raw=true",
-        "id": 20,
+        
         "price": 17.99,
         "isFavorite": false,
         "inCart": false,
         "color": "#422E27"
     },
     {
+        "id": 21,
         "name": "bottom",
         "url": "https://github.com/abuiko/react-bootstrap-assets/blob/master/pants2.jpeg?raw=true",
-        "id": 21,
+        
         "price": 17.99,
         "isFavorite": false,
         "inCart": false,
         "color": "#E2C1B8"
     },
     {
+        "id": 22,
         "name": "bottom",
         "url": "https://github.com/abuiko/react-bootstrap-assets/blob/master/shorts.jpeg?raw=true",
-        "id": 22,
+      
         "price": 17.99,
         "isFavorite": false,
         "inCart": false,
         "color": "#425C7D"
     },
     {
+        "id": 23,
         "name": "bottom",
         "url": "https://github.com/abuiko/react-bootstrap-assets/blob/master/skirt.jpeg?raw=true",
-        "id": 23,
+       
         "price": 17.99,
         "isFavorite": false,
         "inCart": false,
